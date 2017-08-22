@@ -23,3 +23,5 @@ This specialization will give you a good theory foundations to analyze data scie
 2. *[Statistics and Probability in Data Science using Python (Pending)]*
 3. *[Machine Learning for Data Science (Pending)]*
 4. *[Big Data Analytics Using Spark (Pending)]*
+
+Camilo Cruz, 2017.

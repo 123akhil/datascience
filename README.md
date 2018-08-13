@@ -5,7 +5,7 @@ NOTE: Although you are more than welcome to use the code posted here as guide, *
 
 _____
 
-### -[Udemy - Python for Data Science & Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
+### [Udemy - Python for Data Science & Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 A comprehensive course to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms.
 
 _____
@@ -22,7 +22,7 @@ I found this specialization a good starting point if you want to learn how to co
 
 _____
 
-### -[University of California, San Diego - Data Science MicroMasters (edX)](https://www.edx.org/micromasters/data-science)
+### [University of California, San Diego - Data Science MicroMasters (edX)](https://www.edx.org/micromasters/data-science)
 This specialization will give you a good theory foundations to analyze data science projects, however I would suggest to take the UMichigan specialization first to have better programming skills before getting into deep with this specialization.
 
 #### List of course repositories

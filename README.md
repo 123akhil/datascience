@@ -1,7 +1,7 @@
 # Data Science Specializations Repository
 This repository combines the files from different Data Science courses and specializations I've taken so far and will be frequently updated.
 
-NOTE: Although you are more than welcome to use the code posted here as guide, **I do encourage you to try your own solutions before using it**.
+NOTE: Although you are more than welcome to use the code posted here as guide, **I do encourage you to try your own solutions before using it**... At the end of the day, making your own mistakes is the best way to learn.
 
 ### [Udemy - Python for Data Science & Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 A comprehensive course to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms.

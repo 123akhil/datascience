@@ -3,12 +3,12 @@ This repository combines the files from different Data Science courses and speci
 
 NOTE: Although you are more than welcome to use the code posted here as guide, **I do encourage you to try your own solutions before using it**... At the end of the day, making your own mistakes is the best way to learn.
 
-_____
+<br>
 
 ### [Udemy - Python for Data Science & Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 A comprehensive course to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms.
 
-_____
+<br>
 
 ### [University of Michigan - Applied Data Science with Python Specialization (Coursera)](https://www.coursera.org/specializations/data-science-python)
 I found this specialization a good starting point if you want to learn how to code for data analysis in Python, however, in my opinion, it lacks a bit of theory in order to get a better understanding about *the reasons to use one method or another*.
@@ -20,7 +20,7 @@ I found this specialization a good starting point if you want to learn how to co
 4. *[Applied Text Mining in Python (Pending)]*
 5. *[Applied Social Network Analysis in Python (Pending)]*
 
-_____
+<br>
 
 ### [University of California, San Diego - Data Science MicroMasters (edX)](https://www.edx.org/micromasters/data-science)
 This specialization will give you a good theory foundations to analyze data science projects, however I would suggest to take the UMichigan specialization first to have better programming skills before getting into deep with this specialization.

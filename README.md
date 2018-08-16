@@ -31,6 +31,10 @@ This specialization will give you a good theory foundations to analyze data scie
 3. *[Machine Learning for Data Science (Pending)]*
 4. *[Big Data Analytics Using Spark (Pending)]*
 
+<br>
+
+### [MITx - 6.00.1x Introduction to Computer Science and Programming Using Python (edX)](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
+An introduction to computer science as a tool to solve real-world analytical problems using Python 3.5.
 _____
 
 Camilo Cruz, 2018.

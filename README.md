@@ -5,6 +5,16 @@ NOTE: Although you are more than welcome to use the code posted here as guide, *
 
 <br>
 
+### [NYU - Information Visualization Specialization](https://www.coursera.org/specializations/information-visualization)
+This specialization provides learners with the necessary knowledge and practical skills to develop a strong foundation in information visualization and to design and develop advanced applications for visual data analysis.
+
+The specialization is meant to prepare students to work on complex data science projects that require the development of interactive visual interfaces for data analysis.
+
+#### List of course repositories
+1. [Information Visualization: Foundations](NYU_Information_Visualization/01_Foundations)
+
+<br>
+
 ### [Udemy - Python for Data Science & Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 A comprehensive course to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms.
 
@@ -14,8 +24,8 @@ A comprehensive course to learning how to use the power of Python to analyze dat
 I found this specialization a good starting point if you want to learn how to code for data analysis in Python, however, in my opinion, it lacks a bit of theory in order to get a better understanding about *the reasons to use one method or another*.
 
 #### List of course repositories
-1. [Introduction to Data Science in Python](/U_Michigan_Applied_Data_Science_with_Python_-_Coursera/Course_1_Introduction_to_Data_Science_Python)
-2. *[Applied Plotting, Charting & Data Representation in Python (Pending)]*
+1. [Introduction to Data Science in Python](U_Michigan_Applied_Data_Science_with_Python_-_Coursera/Course_1_Introduction_to_Data_Science_Python)
+2. [Applied Plotting, Charting & Data Representation in Python](U_Michigan_Applied_Data_Science_with_Python_-_Coursera/Course_2_Applied_Plotting)
 3. *[Applied Machine Learning in Python (Pending)]*
 4. *[Applied Text Mining in Python (Pending)]*
 5. *[Applied Social Network Analysis in Python (Pending)]*

@@ -12,6 +12,7 @@ The specialization is meant to prepare students to work on complex data science 
 
 #### List of course repositories
 1. [Information Visualization: Foundations](NYU_Information_Visualization/01_Foundations)
+1. [Information Visualization: Applied Perception](NYU_Information_Visualization/02_Applied_Perception)
 
 <br>
 

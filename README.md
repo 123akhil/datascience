@@ -1,7 +1,7 @@
 # Data Science Specializations Repository
 This repository combines the files from different Data Science courses and specializations I've taken so far and will be frequently updated.
 
-NOTE: Although you are more than welcome to use the code posted here as guide, **I do encourage you to try your own solutions before using it**... At the end of the day, making your own mistakes is the best way to learn.
+NOTE: Although you are more than welcome to use the code posted here as guide, **I do encourage you to try your own solutions before using it**... At the end of the day, making your own mistakes is not only the best way to learn but also what we call experience.
 
 <br>
 
@@ -12,7 +12,8 @@ The specialization is meant to prepare students to work on complex data science 
 
 #### List of course repositories
 1. [Information Visualization: Foundations](NYU_Information_Visualization/01_Foundations)
-1. [Information Visualization: Applied Perception](NYU_Information_Visualization/02_Applied_Perception)
+2. [Information Visualization: Applied Perception](NYU_Information_Visualization/02_Applied_Perception)
+3. [Information Visualization: Programming with D3.js](NYU_Information_Visualization/03_Programming_D3)
 
 <br>
 
@@ -48,4 +49,4 @@ This specialization will give you a good theory foundations to analyze data scie
 An introduction to computer science as a tool to solve real-world analytical problems using Python 3.5.
 _____
 
-Camilo Cruz, 2018.
+Camilo Cruz, 2019.
